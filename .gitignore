@@ -1,0 +1,8 @@
+# file yang bernama config.txt akan diabaikan
+config.txt
+
+# folder bernama data akan diabaikan
+data/
+
+# folder berekstensi .exe akan diabaikan
+*.exe
